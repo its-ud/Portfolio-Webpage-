@@ -1,0 +1,20 @@
+body{
+	border: 20px solid #bdc3c7;
+
+	padding: 20px;
+	width: 80%;
+	margin: 20px auto;
+}
+
+.date{
+	color: #3498db;
+}
+
+.leftborder{
+	border-left:2px solid grey;
+	padding-left: 10px;
+}
+
+hr{
+
+}

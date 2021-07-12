@@ -1,0 +1,17 @@
+a{
+	color: white;
+}
+
+p{
+	font-size: 25px;
+	font-family: "indie flower";
+	font-weight: 800;
+}
+
+hr{
+	border: 1px solid black;
+}
+
+.blojbt{
+	border-bottom: 10px; 
+}
